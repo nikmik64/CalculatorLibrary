@@ -1,2 +1,2 @@
 # CalculatorLibrary
-just a test followign a tutorial
+just a test following another tutorial
